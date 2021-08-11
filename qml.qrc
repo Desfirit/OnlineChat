@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Images/phone-book.svg</file>
+        <file>Images/reorder-option.svg</file>
+        <file>Images/send-button.svg</file>
+        <file>Chat.qml</file>
+        <file>ChatInfo.qml</file>
+        <file>ConnectionDialog.qml</file>
+        <file>Contact.qml</file>
+        <file>ContactsView.qml</file>
+        <file>ContexMenu.qml</file>
+        <file>Message.qml</file>
+    </qresource>
+</RCC>
